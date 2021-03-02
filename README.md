@@ -1,4 +1,4 @@
-# fix-comments
+# fix-comments - Disqus Comments Preview Fix
 Solución simple al problema de los comentarios de Disqus en temas de TagDiv - WordPress
 
 # Problema
